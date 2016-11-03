@@ -1,5 +1,5 @@
 <package>
-	<name>compass</name>
+	<name>Compass</name>
 	<version>0.1.0</version>
 	<description>Roboboat compass module</description>
 	<maintainer email="ktbarrett.connectflour@gmail.com">Kaleb Barrett</maintainer>
